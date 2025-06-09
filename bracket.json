@@ -9,9 +9,9 @@
   "Matches": [
     {
       "ID": 1,
-      "Team1Acronym": "",
+      "Team1Acronym": "32",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "33",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -25,9 +25,9 @@
     },
     {
       "ID": 4,
-      "Team1Acronym": "",
+      "Team1Acronym": "17",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "48",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -43,9 +43,9 @@
     },
     {
       "ID": 7,
-      "Team1Acronym": "",
+      "Team1Acronym": "25",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "40",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -61,9 +61,9 @@
     },
     {
       "ID": 10,
-      "Team1Acronym": "",
+      "Team1Acronym": "24",
       "Team1Score": null,
-      "Team2Acronym": "",
+      "Team2Acronym": "41",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1331,7 +1331,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:01.6014+00:00",
+      "StartDate": "2025-06-09T19:08:01.6014+01:00",
       "Matches": [
         1,
         4,
@@ -1357,7 +1357,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:12.9965167+00:00",
+      "StartDate": "2025-06-09T19:08:12.9965167+01:00",
       "Matches": [
         2,
         5,
@@ -1383,7 +1383,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:17.0148624+00:00",
+      "StartDate": "2025-06-09T19:08:17.0148624+01:00",
       "Matches": [
         3,
         9,
@@ -1401,7 +1401,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:21.2929481+00:00",
+      "StartDate": "2025-06-09T19:08:21.2929481+01:00",
       "Matches": [
         6,
         18,
@@ -1415,7 +1415,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:37.8018842+00:00",
+      "StartDate": "2025-06-09T19:08:37.8018842+01:00",
       "Matches": [
         12,
         37
@@ -1427,7 +1427,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:45.0456338+00:00",
+      "StartDate": "2025-06-09T19:08:45.0456338+01:00",
       "Matches": [
         24
       ]
@@ -1438,7 +1438,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T18:08:49.7808658+00:00",
+      "StartDate": "2025-06-09T19:08:49.7808658+01:00",
       "Matches": [
         25
       ]
