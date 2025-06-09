@@ -6,7 +6,852 @@
     "LastAppliedDifficultyVersion": 20250306,
     "Available": true
   },
-  "Matches": [],
+  "Matches": [
+    {
+      "ID": 1,
+      "Team1Acronym": "",
+      "Team1Score": null,
+      "Team2Acronym": "",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:11:32.4971815+01:00",
+      "ConditionalMatches": [],
+      "Position": {},
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 4,
+      "Team1Acronym": "",
+      "Team1Score": null,
+      "Team2Acronym": "",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:32.4119062+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 7,
+      "Team1Acronym": "",
+      "Team1Score": null,
+      "Team2Acronym": "",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:36.3858463+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 200
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 10,
+      "Team1Acronym": "",
+      "Team1Score": null,
+      "Team2Acronym": "",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:39.8469083+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 300
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 13,
+      "Team1Acronym": "29",
+      "Team1Score": null,
+      "Team2Acronym": "36",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:41.8407854+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 400
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 16,
+      "Team1Acronym": "20",
+      "Team1Score": null,
+      "Team2Acronym": "45",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:45.2345967+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 500
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 19,
+      "Team1Acronym": "28",
+      "Team1Score": null,
+      "Team2Acronym": "37",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:48.1246716+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 600
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 22,
+      "Team1Acronym": "21",
+      "Team1Score": null,
+      "Team2Acronym": "44",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:50.5586942+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 700
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 26,
+      "Team1Acronym": "31",
+      "Team1Score": null,
+      "Team2Acronym": "34",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:53.7607014+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 800
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 29,
+      "Team1Acronym": "18",
+      "Team1Score": null,
+      "Team2Acronym": "47",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:57.3986239+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 900
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 32,
+      "Team1Acronym": "26",
+      "Team1Score": null,
+      "Team2Acronym": "39",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:25:59.830767+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1000
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 35,
+      "Team1Acronym": "23",
+      "Team1Score": null,
+      "Team2Acronym": "42",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:26:02.0236397+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 38,
+      "Team1Acronym": "30",
+      "Team1Score": null,
+      "Team2Acronym": "35",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:26:04.9827059+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1200
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 41,
+      "Team1Acronym": "19",
+      "Team1Score": null,
+      "Team2Acronym": "46",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:26:07.5388938+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1300
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 44,
+      "Team1Acronym": "27",
+      "Team1Score": null,
+      "Team2Acronym": "38",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:26:11.0821271+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1400
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 47,
+      "Team1Acronym": "22",
+      "Team1Score": null,
+      "Team2Acronym": "43",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:26:13.1666666+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1500
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 2,
+      "Team1Acronym": "1",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:00.5044426+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 5,
+      "Team1Acronym": "16",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:08.2642348+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 3,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:10.9145392+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 50
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 8,
+      "Team1Acronym": "8",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:41.9794041+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 200
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 11,
+      "Team1Acronym": "9",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:43.8411488+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 300
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 14,
+      "Team1Acronym": "4",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:45.6844532+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 400
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 17,
+      "Team1Acronym": "13",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:47.2681472+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 500
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 20,
+      "Team1Acronym": "5",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:48.9692684+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 600
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 23,
+      "Team1Acronym": "12",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:51.7351202+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 700
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 27,
+      "Team1Acronym": "2",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:53.3106048+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 800
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 30,
+      "Team1Acronym": "15",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:55.2033468+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 900
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 33,
+      "Team1Acronym": "7",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:57.0091283+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1000
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 36,
+      "Team1Acronym": "10",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:28:58.8415668+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 39,
+      "Team1Acronym": "3",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:29:01.935281+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1200
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 42,
+      "Team1Acronym": "14",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:29:03.7575888+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1300
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 45,
+      "Team1Acronym": "6",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:29:05.1243333+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1400
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 48,
+      "Team1Acronym": "11",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:29:06.8512468+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1500
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 9,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:30:31.6652681+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 250
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 15,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:30:39.7867487+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 450
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 21,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:30:52.4665326+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 650
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 28,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:30:59.726608+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 850
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 34,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:31:07.252374+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 1050
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 40,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:31:14.4626291+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 1250
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 46,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:31:23.6491872+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 1450
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 6,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:32:30.8372284+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 150
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 18,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:32:54.1413264+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 550
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 31,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:33:21.5744287+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 950
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 43,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:33:30.07128+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 1350
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 12,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:34:20.0344866+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 350
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 37,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:34:47.9855551+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 1150
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 24,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:35:22.8171412+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1000,
+        "Y": 750
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 25,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:35:57.1251585+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1200,
+        "Y": 750
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 49,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2025-06-09T19:37:37.0110513+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 777,
+        "Y": 1745
+      }
+    }
+  ],
   "Rounds": [
     {
       "Name": "Qualifiers",
@@ -479,29 +1324,750 @@
       ],
       "StartDate": "2025-06-09T17:58:52.0067583+01:00",
       "Matches": []
+    },
+    {
+      "Name": "Round of 48",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:01.6014+00:00",
+      "Matches": [
+        1,
+        4,
+        7,
+        10,
+        13,
+        16,
+        19,
+        22,
+        26,
+        29,
+        32,
+        35,
+        38,
+        41,
+        44,
+        47
+      ]
+    },
+    {
+      "Name": "Round of 32",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:12.9965167+00:00",
+      "Matches": [
+        2,
+        5,
+        8,
+        11,
+        14,
+        17,
+        20,
+        23,
+        27,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        48
+      ]
+    },
+    {
+      "Name": "Round of 16",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:17.0148624+00:00",
+      "Matches": [
+        3,
+        9,
+        15,
+        21,
+        28,
+        34,
+        40,
+        46
+      ]
+    },
+    {
+      "Name": "Quarter Finals",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:21.2929481+00:00",
+      "Matches": [
+        6,
+        18,
+        31,
+        43
+      ]
+    },
+    {
+      "Name": "Semi Finals",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:37.8018842+00:00",
+      "Matches": [
+        12,
+        37
+      ]
+    },
+    {
+      "Name": "Finals",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:45.0456338+00:00",
+      "Matches": [
+        24
+      ]
+    },
+    {
+      "Name": "Grand Finals",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2025-06-09T18:08:49.7808658+00:00",
+      "Matches": [
+        25
+      ]
     }
   ],
   "Teams": [
     {
-      "FullName": "me",
+      "FullName": "1",
       "FlagName": "",
-      "Acronym": "",
+      "Acronym": "1",
       "SeedingResults": [],
       "Seed": "",
       "LastYearPlacing": 0,
       "Players": []
     },
     {
-      "FullName": "you",
-      "FlagName": "YO",
-      "Acronym": "YOU",
+      "FullName": "2",
+      "FlagName": "",
+      "Acronym": "2",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "3",
+      "FlagName": "",
+      "Acronym": "3",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "4",
+      "FlagName": "",
+      "Acronym": "4",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "5",
+      "FlagName": "",
+      "Acronym": "5",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "6",
+      "FlagName": "",
+      "Acronym": "6",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "7",
+      "FlagName": "",
+      "Acronym": "7",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "8",
+      "FlagName": "",
+      "Acronym": "8",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "9",
+      "FlagName": "",
+      "Acronym": "9",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "10",
+      "FlagName": "10",
+      "Acronym": "10",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "11",
+      "FlagName": "11",
+      "Acronym": "11",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "12",
+      "FlagName": "12",
+      "Acronym": "12",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "13",
+      "FlagName": "13",
+      "Acronym": "13",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "14",
+      "FlagName": "14",
+      "Acronym": "14",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "15",
+      "FlagName": "15",
+      "Acronym": "15",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "16",
+      "FlagName": "16",
+      "Acronym": "16",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "17",
+      "FlagName": "17",
+      "Acronym": "17",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "18",
+      "FlagName": "18",
+      "Acronym": "18",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "19",
+      "FlagName": "19",
+      "Acronym": "19",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "20",
+      "FlagName": "20",
+      "Acronym": "20",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "21",
+      "FlagName": "21",
+      "Acronym": "21",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "22",
+      "FlagName": "22",
+      "Acronym": "22",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "23",
+      "FlagName": "23",
+      "Acronym": "23",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "24",
+      "FlagName": "24",
+      "Acronym": "24",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "25",
+      "FlagName": "25",
+      "Acronym": "25",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "26",
+      "FlagName": "26",
+      "Acronym": "26",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "27",
+      "FlagName": "27",
+      "Acronym": "27",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "28",
+      "FlagName": "28",
+      "Acronym": "28",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "29",
+      "FlagName": "29",
+      "Acronym": "29",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "30",
+      "FlagName": "30",
+      "Acronym": "30",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "31",
+      "FlagName": "31",
+      "Acronym": "31",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "32",
+      "FlagName": "32",
+      "Acronym": "32",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "33",
+      "FlagName": "33",
+      "Acronym": "33",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "34",
+      "FlagName": "34",
+      "Acronym": "34",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "35",
+      "FlagName": "35",
+      "Acronym": "35",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "36",
+      "FlagName": "36",
+      "Acronym": "36",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "37",
+      "FlagName": "37",
+      "Acronym": "37",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "38",
+      "FlagName": "38",
+      "Acronym": "38",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "39",
+      "FlagName": "39",
+      "Acronym": "39",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "40",
+      "FlagName": "40",
+      "Acronym": "40",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "41",
+      "FlagName": "41",
+      "Acronym": "41",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "42",
+      "FlagName": "42",
+      "Acronym": "42",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "43",
+      "FlagName": "43",
+      "Acronym": "43",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "44",
+      "FlagName": "44",
+      "Acronym": "44",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "45",
+      "FlagName": "45",
+      "Acronym": "45",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "46",
+      "FlagName": "46",
+      "Acronym": "46",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "47",
+      "FlagName": "47",
+      "Acronym": "47",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "48",
+      "FlagName": "48",
+      "Acronym": "48",
       "SeedingResults": [],
       "Seed": "",
       "LastYearPlacing": 0,
       "Players": []
     }
   ],
-  "Progressions": [],
+  "Progressions": [
+    {
+      "SourceID": 1,
+      "TargetID": 2
+    },
+    {
+      "SourceID": 4,
+      "TargetID": 5
+    },
+    {
+      "SourceID": 7,
+      "TargetID": 8
+    },
+    {
+      "SourceID": 10,
+      "TargetID": 11
+    },
+    {
+      "SourceID": 13,
+      "TargetID": 14
+    },
+    {
+      "SourceID": 16,
+      "TargetID": 17
+    },
+    {
+      "SourceID": 19,
+      "TargetID": 20
+    },
+    {
+      "SourceID": 22,
+      "TargetID": 23
+    },
+    {
+      "SourceID": 26,
+      "TargetID": 27
+    },
+    {
+      "SourceID": 29,
+      "TargetID": 30
+    },
+    {
+      "SourceID": 32,
+      "TargetID": 33
+    },
+    {
+      "SourceID": 35,
+      "TargetID": 36
+    },
+    {
+      "SourceID": 38,
+      "TargetID": 39
+    },
+    {
+      "SourceID": 41,
+      "TargetID": 42
+    },
+    {
+      "SourceID": 44,
+      "TargetID": 45
+    },
+    {
+      "SourceID": 47,
+      "TargetID": 48
+    },
+    {
+      "SourceID": 2,
+      "TargetID": 3
+    },
+    {
+      "SourceID": 5,
+      "TargetID": 3
+    },
+    {
+      "SourceID": 3,
+      "TargetID": 6
+    },
+    {
+      "SourceID": 8,
+      "TargetID": 9
+    },
+    {
+      "SourceID": 11,
+      "TargetID": 9
+    },
+    {
+      "SourceID": 14,
+      "TargetID": 15
+    },
+    {
+      "SourceID": 17,
+      "TargetID": 15
+    },
+    {
+      "SourceID": 20,
+      "TargetID": 21
+    },
+    {
+      "SourceID": 23,
+      "TargetID": 21
+    },
+    {
+      "SourceID": 27,
+      "TargetID": 28
+    },
+    {
+      "SourceID": 30,
+      "TargetID": 28
+    },
+    {
+      "SourceID": 33,
+      "TargetID": 34
+    },
+    {
+      "SourceID": 36,
+      "TargetID": 34
+    },
+    {
+      "SourceID": 39,
+      "TargetID": 40
+    },
+    {
+      "SourceID": 42,
+      "TargetID": 40
+    },
+    {
+      "SourceID": 45,
+      "TargetID": 46
+    },
+    {
+      "SourceID": 48,
+      "TargetID": 46
+    },
+    {
+      "SourceID": 9,
+      "TargetID": 6
+    },
+    {
+      "SourceID": 15,
+      "TargetID": 18
+    },
+    {
+      "SourceID": 21,
+      "TargetID": 18
+    },
+    {
+      "SourceID": 28,
+      "TargetID": 31
+    },
+    {
+      "SourceID": 34,
+      "TargetID": 31
+    },
+    {
+      "SourceID": 40,
+      "TargetID": 43
+    },
+    {
+      "SourceID": 46,
+      "TargetID": 43
+    },
+    {
+      "SourceID": 6,
+      "TargetID": 12
+    },
+    {
+      "SourceID": 18,
+      "TargetID": 12
+    },
+    {
+      "SourceID": 31,
+      "TargetID": 37
+    },
+    {
+      "SourceID": 43,
+      "TargetID": 37
+    },
+    {
+      "SourceID": 12,
+      "TargetID": 24
+    },
+    {
+      "SourceID": 37,
+      "TargetID": 24
+    },
+    {
+      "SourceID": 24,
+      "TargetID": 25
+    }
+  ],
   "ChromaKeyWidth": 1366,
   "PlayersPerTeam": 4,
   "AutoProgressScreens": true,
