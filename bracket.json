@@ -8,7 +8,7 @@
   },
   "Matches": [
     {
-      "ID": 1,
+      "ID": 2,
       "Team1Acronym": "32",
       "Team1Score": null,
       "Team2Acronym": "33",
@@ -17,14 +17,16 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:11:32.4971815+01:00",
+      "Date": "2023-10-20T06:52:26.6149245+01:00",
       "ConditionalMatches": [],
-      "Position": {},
+      "Position": {
+        "Y": 100
+      },
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
-      "ID": 4,
+      "ID": 5,
       "Team1Acronym": "17",
       "Team1Score": null,
       "Team2Acronym": "48",
@@ -33,43 +35,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:25:32.4119062+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 100
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 7,
-      "Team1Acronym": "25",
-      "Team1Score": null,
-      "Team2Acronym": "40",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:25:36.3858463+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 200
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 10,
-      "Team1Acronym": "24",
-      "Team1Score": null,
-      "Team2Acronym": "41",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:25:39.8469083+01:00",
+      "Date": "2023-10-20T06:52:51.5254368+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 300
@@ -78,34 +44,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 13,
-      "Team1Acronym": "29",
+      "ID": 8,
+      "Team1Acronym": "25",
       "Team1Score": null,
-      "Team2Acronym": "36",
+      "Team2Acronym": "40",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:25:41.8407854+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 400
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 16,
-      "Team1Acronym": "20",
-      "Team1Score": null,
-      "Team2Acronym": "45",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:25:45.2345967+01:00",
+      "Date": "2023-10-20T06:52:59.5985477+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 500
@@ -114,34 +62,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 19,
-      "Team1Acronym": "28",
+      "ID": 11,
+      "Team1Acronym": "24",
       "Team1Score": null,
-      "Team2Acronym": "37",
+      "Team2Acronym": "41",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:25:48.1246716+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 600
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 22,
-      "Team1Acronym": "21",
-      "Team1Score": null,
-      "Team2Acronym": "44",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:25:50.5586942+01:00",
+      "Date": "2023-10-20T06:53:05.8943796+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 700
@@ -150,34 +80,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 26,
-      "Team1Acronym": "31",
+      "ID": 14,
+      "Team1Acronym": "29",
       "Team1Score": null,
-      "Team2Acronym": "34",
+      "Team2Acronym": "363",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:25:53.7607014+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 800
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 29,
-      "Team1Acronym": "18",
-      "Team1Score": null,
-      "Team2Acronym": "47",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:25:57.3986239+01:00",
+      "Date": "2023-10-20T06:53:12.0378939+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 900
@@ -186,34 +98,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 32,
-      "Team1Acronym": "26",
+      "ID": 17,
+      "Team1Acronym": "20",
       "Team1Score": null,
-      "Team2Acronym": "39",
+      "Team2Acronym": "45",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:25:59.830767+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 1000
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 35,
-      "Team1Acronym": "23",
-      "Team1Score": null,
-      "Team2Acronym": "42",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:26:02.0236397+01:00",
+      "Date": "2023-10-20T06:53:16.9588028+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1100
@@ -222,34 +116,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 38,
-      "Team1Acronym": "30",
+      "ID": 20,
+      "Team1Acronym": "28",
       "Team1Score": null,
-      "Team2Acronym": "35",
+      "Team2Acronym": "37",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:26:04.9827059+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 1200
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 41,
-      "Team1Acronym": "19",
-      "Team1Score": null,
-      "Team2Acronym": "46",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:26:07.5388938+01:00",
+      "Date": "2023-10-20T06:53:22.950872+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1300
@@ -258,34 +134,16 @@
       "PointsToWin": 5
     },
     {
-      "ID": 44,
-      "Team1Acronym": "27",
+      "ID": 23,
+      "Team1Acronym": "21",
       "Team1Score": null,
-      "Team2Acronym": "38",
+      "Team2Acronym": "44",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:26:11.0821271+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "Y": 1400
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 47,
-      "Team1Acronym": "22",
-      "Team1Score": null,
-      "Team2Acronym": "43",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:26:13.1666666+01:00",
+      "Date": "2023-10-20T06:53:28.7651126+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1500
@@ -294,7 +152,151 @@
       "PointsToWin": 5
     },
     {
-      "ID": 2,
+      "ID": 27,
+      "Team1Acronym": "31",
+      "Team1Score": null,
+      "Team2Acronym": "34",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:53:33.6859711+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1700
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 30,
+      "Team1Acronym": "18",
+      "Team1Score": null,
+      "Team2Acronym": "47",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:53:40.3908529+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 1900
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 33,
+      "Team1Acronym": "26",
+      "Team1Score": null,
+      "Team2Acronym": "39",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:53:47.4130064+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 2100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 36,
+      "Team1Acronym": "23",
+      "Team1Score": null,
+      "Team2Acronym": "42",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:53:52.3505034+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 2300
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 39,
+      "Team1Acronym": "30",
+      "Team1Score": null,
+      "Team2Acronym": "35",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:53:58.1501071+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 2500
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 42,
+      "Team1Acronym": "19",
+      "Team1Score": null,
+      "Team2Acronym": "46",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:54:03.8453423+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 2700
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 45,
+      "Team1Acronym": "27",
+      "Team1Score": null,
+      "Team2Acronym": "38",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:54:08.7897821+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 2900
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 48,
+      "Team1Acronym": "22",
+      "Team1Score": null,
+      "Team2Acronym": "43",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:54:12.9980898+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "Y": 3100
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 1,
       "Team1Acronym": "1",
       "Team1Score": null,
       "Team2Score": null,
@@ -302,16 +304,17 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:28:00.5044426+01:00",
+      "Date": "2023-10-20T06:54:42.3574759+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 200
+        "X": 200,
+        "Y": 50
       },
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
-      "ID": 5,
+      "ID": 4,
       "Team1Acronym": "16",
       "Team1Score": null,
       "Team2Score": null,
@@ -319,11 +322,264 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:28:08.2642348+01:00",
+      "Date": "2023-10-20T06:55:18.9078849+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
-        "Y": 100
+        "Y": 250
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 7,
+      "Team1Acronym": "8",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:55:30.3561617+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 450
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 10,
+      "Team1Acronym": "9",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:55:41.3633568+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 650
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 13,
+      "Team1Acronym": "4",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:55:52.2049735+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 850
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 16,
+      "Team1Acronym": "13",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:01.127006+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1050
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 19,
+      "Team1Acronym": "5",
+      "Team1Score": null,
+      "Team2Acronym": "28",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:13.1565778+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1250
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 22,
+      "Team1Acronym": "12",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:21.7029819+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1450
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 26,
+      "Team1Acronym": "2",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:30.5959073+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1650
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 29,
+      "Team1Acronym": "15",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:39.2679992+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 1850
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 32,
+      "Team1Acronym": "7",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:48.4031395+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 2050
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 35,
+      "Team1Acronym": "10",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:56:58.1411502+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 2250
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 38,
+      "Team1Acronym": "34",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:57:07.9728044+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 2450
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 41,
+      "Team1Acronym": "14",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:57:18.274566+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 2650
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 44,
+      "Team1Acronym": "6",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:57:28.0922131+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 2850
+      },
+      "WinnerColour": "Blue",
+      "PointsToWin": 5
+    },
+    {
+      "ID": 47,
+      "Team1Acronym": "11",
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": false,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T06:57:36.7186188+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 200,
+        "Y": 3050
       },
       "WinnerColour": "Blue",
       "PointsToWin": 5
@@ -335,265 +591,13 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:10.9145392+01:00",
+      "Current": true,
+      "Date": "2023-10-20T07:00:55.739165+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 50
+        "Y": 150
       },
-      "PointsToWin": 5
-    },
-    {
-      "ID": 8,
-      "Team1Acronym": "8",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:41.9794041+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 200
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 11,
-      "Team1Acronym": "9",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:43.8411488+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 300
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 14,
-      "Team1Acronym": "4",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:45.6844532+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 400
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 17,
-      "Team1Acronym": "13",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:47.2681472+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 500
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 20,
-      "Team1Acronym": "5",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:48.9692684+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 600
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 23,
-      "Team1Acronym": "12",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:51.7351202+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 700
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 27,
-      "Team1Acronym": "2",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:53.3106048+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 800
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 30,
-      "Team1Acronym": "15",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:55.2033468+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 900
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 33,
-      "Team1Acronym": "7",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:57.0091283+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1000
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 36,
-      "Team1Acronym": "10",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:28:58.8415668+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1100
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 39,
-      "Team1Acronym": "3",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:29:01.935281+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1200
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 42,
-      "Team1Acronym": "14",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:29:03.7575888+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1300
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 45,
-      "Team1Acronym": "6",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:29:05.1243333+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1400
-      },
-      "WinnerColour": "Blue",
-      "PointsToWin": 5
-    },
-    {
-      "ID": 48,
-      "Team1Acronym": "11",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:29:06.8512468+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 200,
-        "Y": 1500
-      },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -604,11 +608,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:30:31.6652681+01:00",
+      "Date": "2023-10-20T07:01:18.5237718+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 250
+        "Y": 550
       },
       "PointsToWin": 5
     },
@@ -620,11 +624,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:30:39.7867487+01:00",
+      "Date": "2023-10-20T07:01:31.3623152+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 450
+        "Y": 950
       },
       "PointsToWin": 5
     },
@@ -636,11 +640,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:30:52.4665326+01:00",
+      "Date": "2023-10-20T07:01:44.2029252+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 650
+        "Y": 1350
       },
       "PointsToWin": 5
     },
@@ -652,11 +656,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:30:59.726608+01:00",
+      "Date": "2023-10-20T07:02:08.9134746+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 850
+        "Y": 1750
       },
       "PointsToWin": 5
     },
@@ -668,13 +672,12 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:31:07.252374+01:00",
+      "Date": "2023-10-20T07:02:29.1594962+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 1050
-      },
-      "PointsToWin": 5
+        "Y": 2150
+      }
     },
     {
       "ID": 40,
@@ -684,11 +687,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:31:14.4626291+01:00",
+      "Date": "2023-10-20T07:02:31.5209141+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 1250
+        "Y": 2550
       },
       "PointsToWin": 5
     },
@@ -700,11 +703,11 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:31:23.6491872+01:00",
+      "Date": "2023-10-20T07:02:33.5447699+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
-        "Y": 1450
+        "Y": 2950
       },
       "PointsToWin": 5
     },
@@ -716,13 +719,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:32:30.8372284+01:00",
+      "Date": "2023-10-20T07:03:47.9706912+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 600,
-        "Y": 150
+        "X": 640,
+        "Y": 350
       },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 18,
@@ -732,13 +735,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:32:54.1413264+01:00",
+      "Date": "2023-10-20T07:03:51.4317043+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 600,
-        "Y": 550
+        "X": 640,
+        "Y": 1150
       },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 31,
@@ -748,13 +751,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:33:21.5744287+01:00",
+      "Date": "2023-10-20T07:03:55.0148727+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 600,
-        "Y": 950
+        "X": 640,
+        "Y": 1940
       },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 43,
@@ -764,13 +767,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:33:30.07128+01:00",
+      "Date": "2023-10-20T07:03:58.9765865+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 600,
-        "Y": 1350
+        "X": 640,
+        "Y": 2750
       },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 12,
@@ -780,13 +783,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:34:20.0344866+01:00",
+      "Date": "2023-10-20T07:17:53.4075057+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 800,
-        "Y": 350
+        "X": 960,
+        "Y": 750
       },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 37,
@@ -796,29 +799,13 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:34:47.9855551+01:00",
+      "Date": "2023-10-20T07:18:07.983638+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 800,
-        "Y": 1150
+        "X": 960,
+        "Y": 2350
       },
-      "PointsToWin": 5
-    },
-    {
-      "ID": 24,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-09T19:35:22.8171412+01:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 1000,
-        "Y": 750
-      },
-      "PointsToWin": 5
+      "PointsToWin": 6
     },
     {
       "ID": 25,
@@ -828,536 +815,775 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:35:57.1251585+01:00",
+      "Date": "2023-10-20T07:19:03.461826+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 1200,
-        "Y": 750
+        "X": 1454,
+        "Y": 1641
       },
-      "PointsToWin": 5
+      "PointsToWin": 7
     },
     {
       "ID": 49,
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:31:56.447097+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3330
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 53,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:21.9588519+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3430
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 55,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:31.8135707+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3530
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 59,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:35.9500475+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3630
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 61,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:39.1245553+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3730
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 65,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:45.5720424+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3830
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 67,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:48.339849+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 3930
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 72,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:52.231155+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4030
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 73,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:54.7886702+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4130
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 77,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:34:57.7248926+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4230
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 79,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:01.0404122+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4330
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 83,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:03.070949+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4430
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 85,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:06.3507334+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4530
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 89,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:08.6148353+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4630
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 91,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:11.9749625+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4730
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 94,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:35:15.0783998+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 400,
+        "Y": 4830
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 51,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:50:52.6479209+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 3380
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 57,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:51:12.9507738+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 3580
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 63,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:51:29.8557504+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 3780
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 71,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:51:43.1743202+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 3980
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 75,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:52:12.3914757+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 4180
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 81,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:52:25.8807867+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 4380
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 87,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:52:36.3968702+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 4580
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 93,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:52:49.5501808+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 600,
+        "Y": 4780
+      },
+      "PointsToWin": 5
+    },
+    {
+      "ID": 62,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:53:40.0435719+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 3760
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 74,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:53:46.3442195+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 4150
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 50,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:54:18.9990535+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 3350
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 56,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:54:52.6223389+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 3550
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 69,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:55:30.1259921+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 3950
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 80,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:56:08.6621603+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 4350
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 86,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:56:23.8774603+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 4550
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 92,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:56:39.9968029+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 800,
+        "Y": 4750
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 54,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:57:24.6192757+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1000,
+        "Y": 3450
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 66,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:57:41.9386727+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1000,
+        "Y": 3850
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 78,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:58:11.5485921+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1000,
+        "Y": 4250
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 90,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T07:58:30+00:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1000,
+        "Y": 4650
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 52,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:59:07.7546141+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1200,
+        "Y": 3420
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 64,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:59:27.0499377+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1200,
+        "Y": 3820
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 76,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T08:59:44.4031909+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1200,
+        "Y": 4220
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 88,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:00:04.5886175+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1200,
+        "Y": 4620
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 60,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:00:40.6939223+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1490,
+        "Y": 3630
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 84,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:00:53.6243415+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1490,
+        "Y": 4430
+      },
+      "PointsToWin": 6
+    },
+    {
+      "ID": 58,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:06:15.9344544+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1690,
+        "Y": 3610
+      },
+      "PointsToWin": 7
+    },
+    {
+      "ID": 82,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:06:38.1354208+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1690,
+        "Y": 4400
+      },
+      "PointsToWin": 7
+    },
+    {
+      "ID": 70,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-20T09:08:33.2381684+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 2010,
+        "Y": 3970
+      },
+      "PointsToWin": 7
+    },
+    {
+      "ID": 24,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-09T19:37:37.0110513+01:00",
+      "Date": "2023-10-20T23:47:55.8859378+01:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 777,
-        "Y": 1745
-      }
+        "X": 2620,
+        "Y": 1640
+      },
+      "PointsToWin": 7
+    },
+    {
+      "ID": 68,
+      "Team1Score": null,
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2023-10-21T00:31:58.7217933+01:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 2210,
+        "Y": 3940
+      },
+      "PointsToWin": 7
     }
   ],
   "Rounds": [
-    {
-      "Name": "Qualifiers",
-      "Description": "",
-      "BestOf": 3,
-      "BanCount": 0,
-      "Beatmaps": [
-        {
-          "ID": 5041633,
-          "Mods": "NM",
-          "BeatmapInfo": {
-            "OnlineID": 5041633,
-            "DifficultyName": "icc4 nm1",
-            "BPM": 200.0,
-            "Length": 213000.0,
-            "StarRating": 7.07,
-            "EndTimeObjectCount": 313,
-            "TotalObjectCount": 930,
-            "Metadata": {
-              "Title": "joker",
-              "title_unicode": "joker",
-              "Artist": "AliA",
-              "artist_unicode": "AliA",
-              "Author": {
-                "OnlineID": 3723568,
-                "Username": "Kujinn",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "reform eli [eli] elinor nelliel icc4 irish community cup 4",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 4.0,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 9.2,
-              "ApproachRate": 9.7,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/cover@2x.jpg?1745407841",
-              "card@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/card@2x.jpg?1745407841",
-              "list@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/list@2x.jpg?1745407841"
-            }
-          }
-        },
-        {
-          "ID": 4070007,
-          "Mods": "",
-          "BeatmapInfo": {
-            "OnlineID": 4070007,
-            "DifficultyName": "Incantation",
-            "BPM": 185.0,
-            "Length": 222000.0,
-            "StarRating": 7.07,
-            "EndTimeObjectCount": 397,
-            "TotalObjectCount": 1738,
-            "Metadata": {
-              "Title": "Evil But Innocent",
-              "title_unicode": "Evil But Innocent",
-              "Artist": "UNDEAD CORPORATION",
-              "artist_unicode": "UNDEAD CORPORATION",
-              "Author": {
-                "OnlineID": 12927633,
-                "Username": "kiwies",
-                "CountryString": "Unknown"
-              },
-              "Source": "東方神霊廟　～ Ten Desires",
-              "tags": "supuor roupus urition hfig urdu awfulness gabdu09 fa featured artist video game touhou project stage 4 seiga kaku theme boukun melodic death metal japanese",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.2,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 9.4,
-              "ApproachRate": 9.8,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/cover@2x.jpg?1748222516",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/card@2x.jpg?1748222516",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/list@2x.jpg?1748222516"
-            }
-          }
-        },
-        {
-          "ID": 2992795,
-          "Mods": "",
-          "BeatmapInfo": {
-            "OnlineID": 2992795,
-            "DifficultyName": "Jounzan's PTSD Extra",
-            "BPM": 274.0,
-            "Length": 194000.0,
-            "StarRating": 6.64,
-            "EndTimeObjectCount": 481,
-            "TotalObjectCount": 995,
-            "Metadata": {
-              "Title": "Lost Umbrella",
-              "title_unicode": "ロストアンブレラ",
-              "Artist": "inabakumori",
-              "artist_unicode": "稲葉曇",
-              "Author": {
-                "OnlineID": 7777875,
-                "Username": "Ryuusei Aika",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "houshou hari [hatsune miku] [hatsune_miku] hatsune miku kanor bongo kusano evilelvis evil elvis jounzan natteke desu natteke_desu smokelind 稻叶昙 歌愛ユキ ボーカロイド kaai yuki vocaloid vocalsynth female vocal japanese rock pop j-rock jrock j-pop jpop",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 6.0,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 9.0,
-              "ApproachRate": 9.5,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/cover@2x.jpg?1622213323",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/card@2x.jpg?1622213323",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/list@2x.jpg?1622213323"
-            }
-          }
-        },
-        {
-          "ID": 2722429,
-          "Mods": "",
-          "BeatmapInfo": {
-            "OnlineID": 2722429,
-            "DifficultyName": "Collab Extra",
-            "BPM": 194.0,
-            "Length": 136000.0,
-            "StarRating": 6.63,
-            "EndTimeObjectCount": 388,
-            "TotalObjectCount": 712,
-            "Metadata": {
-              "Title": "Fluctuation",
-              "title_unicode": "Fluctuation",
-              "Artist": "Zekk",
-              "artist_unicode": "Zekk",
-              "Author": {
-                "OnlineID": 1943309,
-                "Username": "Acylica",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "owc grandfinal gf nm4 electronic instrumental mappers' guild featured artist fa drumstep vikala toybot kalibe acyl heilia realazy hypercyte hypercute mordred osu world cup mpg",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 4.4,
-              "OverallDifficulty": 9.0,
-              "ApproachRate": 9.4,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/cover@2x.jpg?1650704383",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/card@2x.jpg?1650704383",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/list@2x.jpg?1650704383"
-            }
-          }
-        },
-        {
-          "ID": 3666952,
-          "Mods": "HD",
-          "BeatmapInfo": {
-            "OnlineID": 3666952,
-            "DifficultyName": "Bloom",
-            "BPM": 252.0,
-            "Length": 227000.0,
-            "StarRating": 6.95,
-            "EndTimeObjectCount": 576,
-            "TotalObjectCount": 1079,
-            "Metadata": {
-              "Title": "Highlight Highlight",
-              "title_unicode": "ハイライト・ハイライト",
-              "Artist": "the peggies",
-              "artist_unicode": "the peggies",
-              "Author": {
-                "OnlineID": 19603724,
-                "Username": "Vanya2",
-                "CountryString": "Unknown"
-              },
-              "Source": "くノ一ツバキの胸の内",
-              "tags": "dahkjdas alevi crysisters japanese anime op opening rock jrock j-rock pop jpop j-pop in the heart of kunoichi tsubaki no mune uchi",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 9.2,
-              "ApproachRate": 9.6,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/cover@2x.jpg?1664642268",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/card@2x.jpg?1664642268",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/list@2x.jpg?1664642268"
-            }
-          }
-        },
-        {
-          "ID": 2819029,
-          "Mods": "HD",
-          "BeatmapInfo": {
-            "OnlineID": 2819029,
-            "DifficultyName": "hit da quon",
-            "BPM": 189.0,
-            "Length": 178000.0,
-            "StarRating": 6.07,
-            "EndTimeObjectCount": 196,
-            "TotalObjectCount": 917,
-            "Metadata": {
-              "Title": "Quon-Extend-",
-              "title_unicode": "Quon-Extend-",
-              "Artist": "Feryquitous",
-              "artist_unicode": "Feryquitous",
-              "Author": {
-                "OnlineID": 689997,
-                "Username": "captin1",
-                "CountryString": "Unknown"
-              },
-              "Source": "Lanota",
-              "tags": "arcaea artcore lowiro electronic instrumental",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 5.0,
-              "OverallDifficulty": 9.0,
-              "ApproachRate": 8.0,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/cover@2x.jpg?1616565640",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/card@2x.jpg?1616565640",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/list@2x.jpg?1616565640"
-            }
-          }
-        },
-        {
-          "ID": 1636127,
-          "Mods": "HR",
-          "BeatmapInfo": {
-            "OnlineID": 1636127,
-            "DifficultyName": "Black Another",
-            "BPM": 222.0,
-            "Length": 139000.0,
-            "StarRating": 6.63,
-            "EndTimeObjectCount": 253,
-            "TotalObjectCount": 876,
-            "Metadata": {
-              "Title": "Reso*nyan*ce Fever",
-              "title_unicode": "Reso*nyan*ce Fever",
-              "Artist": "katagiri",
-              "artist_unicode": "かたぎり",
-              "Author": {
-                "OnlineID": 643394,
-                "Username": "Snow Note",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "7odoa pw384 rlc kundi kuki1537 bms of fighters ultimate bofu2016 legendary again dancecore resonyance resonance xlni 384059043 kuki edm hardcore mashcore hard core dance music 2016 just do it shia labeouf Коробе́йники tetris kbc keyboard crasher キーボードクラッシャー スーパーマリオ super mario rpg legend of the seven stars 森のキノコにご用心 forest maze 下村陽子 yoko shimomura サンドキャニオン 砂漠ステージ sand canyon map jun 石川淳 ishikawa 星のカービィ3 kirby's dream land 3 任天堂 nintento 侵略!イカ娘 shinryaku! ika musume invasion! squid girl syamu gimme nightcore abba electronic instrumental japanese なまる ピ",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 9.2,
-              "ApproachRate": 9.3,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/779061/covers/cover@2x.jpg?1623439013",
-              "card@2x": "https://assets.ppy.sh/beatmaps/779061/covers/card@2x.jpg?1623439013",
-              "list@2x": "https://assets.ppy.sh/beatmaps/779061/covers/list@2x.jpg?1623439013"
-            }
-          }
-        },
-        {
-          "ID": 2735614,
-          "Mods": "HR",
-          "BeatmapInfo": {
-            "OnlineID": 2735614,
-            "DifficultyName": "Expert",
-            "BPM": 140.0,
-            "Length": 157000.0,
-            "StarRating": 5.83,
-            "EndTimeObjectCount": 173,
-            "TotalObjectCount": 931,
-            "Metadata": {
-              "Title": "Koigokoro",
-              "title_unicode": "恋ゴコロ",
-              "Artist": "Primastella",
-              "artist_unicode": "ぷりますてら",
-              "Author": {
-                "OnlineID": 53378,
-                "Username": "ktgster",
-                "CountryString": "Unknown"
-              },
-              "Source": "ルーセントハート",
-              "tags": "lucent heart video game electronic japanese chompy dance pop trance imai sena sakagami nao tsukishima komugi saiya noir korosuke",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 5.0,
-              "OverallDifficulty": 8.0,
-              "ApproachRate": 9.0,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/cover@2x.jpg?1622187702",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/card@2x.jpg?1622187702",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/list@2x.jpg?1622187702"
-            }
-          }
-        },
-        {
-          "ID": 3602441,
-          "Mods": "DT",
-          "BeatmapInfo": {
-            "OnlineID": 3602441,
-            "DifficultyName": "Mayu's Insane",
-            "BPM": 181.0,
-            "Length": 225000.0,
-            "StarRating": 5.01,
-            "EndTimeObjectCount": 403,
-            "TotalObjectCount": 863,
-            "Metadata": {
-              "Title": "DearMyFriend",
-              "title_unicode": "DearMyFriend",
-              "Artist": "Hana",
-              "artist_unicode": "はな",
-              "Author": {
-                "OnlineID": 10627594,
-                "Username": "subahibi",
-                "CountryString": "Unknown"
-              },
-              "Source": "サクラノ詩－櫻の森の上を舞う－",
-              "tags": "sakura no uta sakura no mori no ue no mau japanese rock ed ending sca-ji makura eroge visual novel hana usami matsumoto fuminori metrowing shoegaze fedora- shizuku- shikibe mayu misho15_701_4_0 hakku tuffiii",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.8,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 8.0,
-              "ApproachRate": 8.8,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/cover@2x.jpg?1698793226",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/card@2x.jpg?1698793226",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/list@2x.jpg?1698793226"
-            }
-          }
-        },
-        {
-          "ID": 3798824,
-          "Mods": "DT",
-          "BeatmapInfo": {
-            "OnlineID": 3798824,
-            "DifficultyName": "Heart",
-            "BPM": 154.0,
-            "Length": 197000.0,
-            "StarRating": 4.86,
-            "EndTimeObjectCount": 145,
-            "TotalObjectCount": 1122,
-            "Metadata": {
-              "Title": "LOVE BOMB",
-              "title_unicode": "LOVE BOMB",
-              "Artist": "fromis_9",
-              "artist_unicode": "프로미스나인",
-              "Author": {
-                "OnlineID": 2490770,
-                "Username": "Cellina",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "down skymin atipir mayu wakisaka sean alexander david amber from.9 from idol school off the record 새롬 saerom 하영 hayoung 규리 gyuri 지원 jiwon 지선 jisun 서연 seoyeon 채영 chaeyoung 나경 nagyung 지헌 jiheon 5dkc2 dt2 korean kpop k-pop pop",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.0,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 8.5,
-              "ApproachRate": 8.5,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/cover@2x.jpg?1664629374",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/card@2x.jpg?1664629374",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/list@2x.jpg?1664629374"
-            }
-          }
-        },
-        {
-          "ID": 2364523,
-          "Mods": "DT",
-          "BeatmapInfo": {
-            "OnlineID": 2364523,
-            "DifficultyName": "IObot's Insane",
-            "BPM": 140.0,
-            "Length": 237000.0,
-            "StarRating": 4.54,
-            "EndTimeObjectCount": 473,
-            "TotalObjectCount": 901,
-            "Metadata": {
-              "Title": "Hibikase",
-              "title_unicode": "ヒビカセ",
-              "Artist": "Reol",
-              "artist_unicode": "れをる",
-              "Author": {
-                "OnlineID": 2848604,
-                "Username": "vikala",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "firika ioexception deadcode toybot giga okiku no title+ vocaloid hatsune miku 初音ミク japanese pop",
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 5.5,
-              "CircleSize": 4.0,
-              "OverallDifficulty": 8.0,
-              "ApproachRate": 9.0,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/cover@2x.jpg?1650688371",
-              "card@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/card@2x.jpg?1650688371",
-              "list@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/list@2x.jpg?1650688371"
-            }
-          }
-        }
-      ],
-      "StartDate": "2025-06-09T17:58:52.0067583+01:00",
-      "Matches": []
-    },
     {
       "Name": "Round of 48",
       "Description": "",
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:01.6014+01:00",
-      "Matches": [
-        1,
-        4,
-        7,
-        10,
-        13,
-        16,
-        19,
-        22,
-        26,
-        29,
-        32,
-        35,
-        38,
-        41,
-        44,
-        47
-      ]
-    },
-    {
-      "Name": "Round of 32",
-      "Description": "",
-      "BestOf": 9,
-      "BanCount": 1,
-      "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:12.9965167+01:00",
+      "StartDate": "2023-10-20T06:46:51.4188208+01:00",
       "Matches": [
         2,
         5,
@@ -1378,69 +1604,140 @@
       ]
     },
     {
+      "Name": "Round of 32",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2023-10-20T06:46:53.2187972+01:00",
+      "Matches": [
+        1,
+        4,
+        7,
+        10,
+        13,
+        16,
+        19,
+        22,
+        26,
+        29,
+        32,
+        35,
+        38,
+        41,
+        44,
+        47
+      ]
+    },
+    {
       "Name": "Round of 16",
       "Description": "",
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:17.0148624+01:00",
+      "StartDate": "2023-10-20T06:46:53.6269887+01:00",
       "Matches": [
         3,
         9,
         15,
         21,
         28,
-        34,
         40,
-        46
+        46,
+        49,
+        53,
+        55,
+        59,
+        61,
+        65,
+        67,
+        72,
+        73,
+        77,
+        79,
+        83,
+        85,
+        89,
+        91,
+        94,
+        51,
+        57,
+        63,
+        71,
+        75,
+        81,
+        87,
+        93
       ]
     },
     {
-      "Name": "Quarter Finals",
+      "Name": "Quarterfinals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 11,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:21.2929481+01:00",
+      "StartDate": "2023-10-20T06:46:55.3873184+01:00",
       "Matches": [
         6,
         18,
         31,
-        43
+        43,
+        62,
+        74,
+        50,
+        56,
+        69,
+        80,
+        86,
+        92,
+        54,
+        66,
+        78,
+        90
       ]
     },
     {
-      "Name": "Semi Finals",
+      "Name": "Semifinals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 11,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:37.8018842+01:00",
+      "StartDate": "2023-10-20T06:46:55.8415552+01:00",
       "Matches": [
         12,
-        37
+        37,
+        52,
+        64,
+        76,
+        88,
+        60,
+        84
       ]
     },
     {
       "Name": "Finals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:45.0456338+01:00",
+      "StartDate": "2023-10-20T06:46:56.298748+01:00",
       "Matches": [
-        24
+        25,
+        58,
+        82,
+        70
       ]
     },
     {
-      "Name": "Grand Finals",
+      "Name": "Grandfinals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2025-06-09T19:08:49.7808658+01:00",
+      "StartDate": "2023-10-20T09:08:33.2381684+01:00",
       "Matches": [
-        25
+        24,
+        68
       ]
     }
   ],
@@ -1465,8 +1762,8 @@
     },
     {
       "FullName": "3",
-      "FlagName": "",
-      "Acronym": "3",
+      "FlagName": "34",
+      "Acronym": "34",
       "SeedingResults": [],
       "Seed": "",
       "LastYearPlacing": 0,
@@ -1880,136 +2177,136 @@
   ],
   "Progressions": [
     {
-      "SourceID": 1,
-      "TargetID": 2
-    },
-    {
-      "SourceID": 4,
-      "TargetID": 5
-    },
-    {
-      "SourceID": 7,
-      "TargetID": 8
-    },
-    {
-      "SourceID": 10,
-      "TargetID": 11
-    },
-    {
-      "SourceID": 13,
-      "TargetID": 14
-    },
-    {
-      "SourceID": 16,
-      "TargetID": 17
-    },
-    {
-      "SourceID": 19,
-      "TargetID": 20
-    },
-    {
-      "SourceID": 22,
-      "TargetID": 23
-    },
-    {
-      "SourceID": 26,
-      "TargetID": 27
-    },
-    {
-      "SourceID": 29,
-      "TargetID": 30
-    },
-    {
-      "SourceID": 32,
-      "TargetID": 33
-    },
-    {
-      "SourceID": 35,
-      "TargetID": 36
-    },
-    {
-      "SourceID": 38,
-      "TargetID": 39
-    },
-    {
-      "SourceID": 41,
-      "TargetID": 42
-    },
-    {
-      "SourceID": 44,
-      "TargetID": 45
-    },
-    {
-      "SourceID": 47,
-      "TargetID": 48
-    },
-    {
       "SourceID": 2,
-      "TargetID": 3
+      "TargetID": 1
     },
     {
       "SourceID": 5,
+      "TargetID": 4
+    },
+    {
+      "SourceID": 8,
+      "TargetID": 7
+    },
+    {
+      "SourceID": 11,
+      "TargetID": 10
+    },
+    {
+      "SourceID": 14,
+      "TargetID": 13
+    },
+    {
+      "SourceID": 17,
+      "TargetID": 16
+    },
+    {
+      "SourceID": 20,
+      "TargetID": 19
+    },
+    {
+      "SourceID": 23,
+      "TargetID": 22
+    },
+    {
+      "SourceID": 27,
+      "TargetID": 26
+    },
+    {
+      "SourceID": 30,
+      "TargetID": 29
+    },
+    {
+      "SourceID": 33,
+      "TargetID": 32
+    },
+    {
+      "SourceID": 36,
+      "TargetID": 35
+    },
+    {
+      "SourceID": 39,
+      "TargetID": 38
+    },
+    {
+      "SourceID": 42,
+      "TargetID": 41
+    },
+    {
+      "SourceID": 45,
+      "TargetID": 44
+    },
+    {
+      "SourceID": 48,
+      "TargetID": 47
+    },
+    {
+      "SourceID": 1,
       "TargetID": 3
+    },
+    {
+      "SourceID": 4,
+      "TargetID": 3
+    },
+    {
+      "SourceID": 7,
+      "TargetID": 9
+    },
+    {
+      "SourceID": 10,
+      "TargetID": 9
+    },
+    {
+      "SourceID": 13,
+      "TargetID": 15
+    },
+    {
+      "SourceID": 16,
+      "TargetID": 15
+    },
+    {
+      "SourceID": 19,
+      "TargetID": 21
+    },
+    {
+      "SourceID": 22,
+      "TargetID": 21
+    },
+    {
+      "SourceID": 26,
+      "TargetID": 28
+    },
+    {
+      "SourceID": 29,
+      "TargetID": 28
+    },
+    {
+      "SourceID": 32,
+      "TargetID": 34
+    },
+    {
+      "SourceID": 35,
+      "TargetID": 34
+    },
+    {
+      "SourceID": 38,
+      "TargetID": 40
+    },
+    {
+      "SourceID": 41,
+      "TargetID": 40
+    },
+    {
+      "SourceID": 44,
+      "TargetID": 46
+    },
+    {
+      "SourceID": 47,
+      "TargetID": 46
     },
     {
       "SourceID": 3,
       "TargetID": 6
-    },
-    {
-      "SourceID": 8,
-      "TargetID": 9
-    },
-    {
-      "SourceID": 11,
-      "TargetID": 9
-    },
-    {
-      "SourceID": 14,
-      "TargetID": 15
-    },
-    {
-      "SourceID": 17,
-      "TargetID": 15
-    },
-    {
-      "SourceID": 20,
-      "TargetID": 21
-    },
-    {
-      "SourceID": 23,
-      "TargetID": 21
-    },
-    {
-      "SourceID": 27,
-      "TargetID": 28
-    },
-    {
-      "SourceID": 30,
-      "TargetID": 28
-    },
-    {
-      "SourceID": 33,
-      "TargetID": 34
-    },
-    {
-      "SourceID": 36,
-      "TargetID": 34
-    },
-    {
-      "SourceID": 39,
-      "TargetID": 40
-    },
-    {
-      "SourceID": 42,
-      "TargetID": 40
-    },
-    {
-      "SourceID": 45,
-      "TargetID": 46
-    },
-    {
-      "SourceID": 48,
-      "TargetID": 46
     },
     {
       "SourceID": 9,
@@ -2057,18 +2354,437 @@
     },
     {
       "SourceID": 12,
-      "TargetID": 24
+      "TargetID": 25
     },
     {
       "SourceID": 37,
+      "TargetID": 25
+    },
+    {
+      "SourceID": 25,
       "TargetID": 24
     },
     {
-      "SourceID": 24,
-      "TargetID": 25
+      "SourceID": 49,
+      "TargetID": 51
+    },
+    {
+      "SourceID": 53,
+      "TargetID": 51
+    },
+    {
+      "SourceID": 55,
+      "TargetID": 57
+    },
+    {
+      "SourceID": 59,
+      "TargetID": 57
+    },
+    {
+      "SourceID": 61,
+      "TargetID": 63
+    },
+    {
+      "SourceID": 65,
+      "TargetID": 63
+    },
+    {
+      "SourceID": 67,
+      "TargetID": 71
+    },
+    {
+      "SourceID": 72,
+      "TargetID": 71
+    },
+    {
+      "SourceID": 73,
+      "TargetID": 75
+    },
+    {
+      "SourceID": 77,
+      "TargetID": 75
+    },
+    {
+      "SourceID": 79,
+      "TargetID": 81
+    },
+    {
+      "SourceID": 83,
+      "TargetID": 81
+    },
+    {
+      "SourceID": 85,
+      "TargetID": 87
+    },
+    {
+      "SourceID": 89,
+      "TargetID": 87
+    },
+    {
+      "SourceID": 91,
+      "TargetID": 93
+    },
+    {
+      "SourceID": 94,
+      "TargetID": 93
+    },
+    {
+      "SourceID": 51,
+      "TargetID": 50
+    },
+    {
+      "SourceID": 57,
+      "TargetID": 56
+    },
+    {
+      "SourceID": 63,
+      "TargetID": 62
+    },
+    {
+      "SourceID": 71,
+      "TargetID": 69
+    },
+    {
+      "SourceID": 75,
+      "TargetID": 74
+    },
+    {
+      "SourceID": 81,
+      "TargetID": 80
+    },
+    {
+      "SourceID": 87,
+      "TargetID": 86
+    },
+    {
+      "SourceID": 93,
+      "TargetID": 92
+    },
+    {
+      "SourceID": 62,
+      "TargetID": 66
+    },
+    {
+      "SourceID": 74,
+      "TargetID": 78
+    },
+    {
+      "SourceID": 50,
+      "TargetID": 54
+    },
+    {
+      "SourceID": 56,
+      "TargetID": 54
+    },
+    {
+      "SourceID": 69,
+      "TargetID": 66
+    },
+    {
+      "SourceID": 80,
+      "TargetID": 78
+    },
+    {
+      "SourceID": 86,
+      "TargetID": 90
+    },
+    {
+      "SourceID": 92,
+      "TargetID": 90
+    },
+    {
+      "SourceID": 54,
+      "TargetID": 52
+    },
+    {
+      "SourceID": 66,
+      "TargetID": 64
+    },
+    {
+      "SourceID": 78,
+      "TargetID": 76
+    },
+    {
+      "SourceID": 90,
+      "TargetID": 88
+    },
+    {
+      "SourceID": 52,
+      "TargetID": 60
+    },
+    {
+      "SourceID": 64,
+      "TargetID": 60
+    },
+    {
+      "SourceID": 76,
+      "TargetID": 84
+    },
+    {
+      "SourceID": 88,
+      "TargetID": 84
+    },
+    {
+      "SourceID": 60,
+      "TargetID": 58
+    },
+    {
+      "SourceID": 84,
+      "TargetID": 82
+    },
+    {
+      "SourceID": 58,
+      "TargetID": 70
+    },
+    {
+      "SourceID": 82,
+      "TargetID": 70
+    },
+    {
+      "SourceID": 70,
+      "TargetID": 68
+    },
+    {
+      "SourceID": 68,
+      "TargetID": 24
+    },
+    {
+      "SourceID": 2,
+      "TargetID": 49,
+      "Losers": true
+    },
+    {
+      "SourceID": 5,
+      "TargetID": 53,
+      "Losers": true
+    },
+    {
+      "SourceID": 8,
+      "TargetID": 55,
+      "Losers": true
+    },
+    {
+      "SourceID": 11,
+      "TargetID": 59,
+      "Losers": true
+    },
+    {
+      "SourceID": 14,
+      "TargetID": 61,
+      "Losers": true
+    },
+    {
+      "SourceID": 17,
+      "TargetID": 65,
+      "Losers": true
+    },
+    {
+      "SourceID": 20,
+      "TargetID": 67,
+      "Losers": true
+    },
+    {
+      "SourceID": 23,
+      "TargetID": 72,
+      "Losers": true
+    },
+    {
+      "SourceID": 27,
+      "TargetID": 73,
+      "Losers": true
+    },
+    {
+      "SourceID": 30,
+      "TargetID": 77,
+      "Losers": true
+    },
+    {
+      "SourceID": 33,
+      "TargetID": 79,
+      "Losers": true
+    },
+    {
+      "SourceID": 36,
+      "TargetID": 83,
+      "Losers": true
+    },
+    {
+      "SourceID": 39,
+      "TargetID": 85,
+      "Losers": true
+    },
+    {
+      "SourceID": 42,
+      "TargetID": 89,
+      "Losers": true
+    },
+    {
+      "SourceID": 45,
+      "TargetID": 91,
+      "Losers": true
+    },
+    {
+      "SourceID": 48,
+      "TargetID": 94,
+      "Losers": true
+    },
+    {
+      "SourceID": 1,
+      "TargetID": 94,
+      "Losers": true
+    },
+    {
+      "SourceID": 4,
+      "TargetID": 91,
+      "Losers": true
+    },
+    {
+      "SourceID": 7,
+      "TargetID": 89,
+      "Losers": true
+    },
+    {
+      "SourceID": 10,
+      "TargetID": 85,
+      "Losers": true
+    },
+    {
+      "SourceID": 13,
+      "TargetID": 83,
+      "Losers": true
+    },
+    {
+      "SourceID": 16,
+      "TargetID": 79,
+      "Losers": true
+    },
+    {
+      "SourceID": 19,
+      "TargetID": 77,
+      "Losers": true
+    },
+    {
+      "SourceID": 22,
+      "TargetID": 73,
+      "Losers": true
+    },
+    {
+      "SourceID": 26,
+      "TargetID": 72,
+      "Losers": true
+    },
+    {
+      "SourceID": 29,
+      "TargetID": 67,
+      "Losers": true
+    },
+    {
+      "SourceID": 32,
+      "TargetID": 65,
+      "Losers": true
+    },
+    {
+      "SourceID": 35,
+      "TargetID": 61,
+      "Losers": true
+    },
+    {
+      "SourceID": 38,
+      "TargetID": 59,
+      "Losers": true
+    },
+    {
+      "SourceID": 41,
+      "TargetID": 55,
+      "Losers": true
+    },
+    {
+      "SourceID": 44,
+      "TargetID": 53,
+      "Losers": true
+    },
+    {
+      "SourceID": 47,
+      "TargetID": 49,
+      "Losers": true
+    },
+    {
+      "SourceID": 3,
+      "TargetID": 69,
+      "Losers": true
+    },
+    {
+      "SourceID": 9,
+      "TargetID": 62,
+      "Losers": true
+    },
+    {
+      "SourceID": 15,
+      "TargetID": 56,
+      "Losers": true
+    },
+    {
+      "SourceID": 21,
+      "TargetID": 50,
+      "Losers": true
+    },
+    {
+      "SourceID": 28,
+      "TargetID": 92,
+      "Losers": true
+    },
+    {
+      "SourceID": 34,
+      "TargetID": 86,
+      "Losers": true
+    },
+    {
+      "SourceID": 40,
+      "TargetID": 80,
+      "Losers": true
+    },
+    {
+      "SourceID": 46,
+      "TargetID": 74,
+      "Losers": true
+    },
+    {
+      "SourceID": 6,
+      "TargetID": 76,
+      "Losers": true
+    },
+    {
+      "SourceID": 18,
+      "TargetID": 88,
+      "Losers": true
+    },
+    {
+      "SourceID": 31,
+      "TargetID": 52,
+      "Losers": true
+    },
+    {
+      "SourceID": 43,
+      "TargetID": 64,
+      "Losers": true
+    },
+    {
+      "SourceID": 12,
+      "TargetID": 58,
+      "Losers": true
+    },
+    {
+      "SourceID": 37,
+      "TargetID": 82,
+      "Losers": true
+    },
+    {
+      "SourceID": 25,
+      "TargetID": 68,
+      "Losers": true
     }
   ],
-  "ChromaKeyWidth": 1366,
+  "ChromaKeyWidth": 1024,
   "PlayersPerTeam": 4,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
