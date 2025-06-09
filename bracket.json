@@ -1,0 +1,510 @@
+{
+  "Ruleset": {
+    "ShortName": "osu",
+    "Name": "osu!",
+    "InstantiationInfo": "osu.Game.Rulesets.Osu.OsuRuleset, osu.Game.Rulesets.Osu",
+    "LastAppliedDifficultyVersion": 20250306,
+    "Available": true
+  },
+  "Matches": [],
+  "Rounds": [
+    {
+      "Name": "Qualifiers",
+      "Description": "",
+      "BestOf": 3,
+      "BanCount": 0,
+      "Beatmaps": [
+        {
+          "ID": 5041633,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 5041633,
+            "DifficultyName": "icc4 nm1",
+            "BPM": 200.0,
+            "Length": 213000.0,
+            "StarRating": 7.07,
+            "EndTimeObjectCount": 313,
+            "TotalObjectCount": 930,
+            "Metadata": {
+              "Title": "joker",
+              "title_unicode": "joker",
+              "Artist": "AliA",
+              "artist_unicode": "AliA",
+              "Author": {
+                "OnlineID": 3723568,
+                "Username": "Kujinn",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "reform eli [eli] elinor nelliel icc4 irish community cup 4",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/cover@2x.jpg?1745407841",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/card@2x.jpg?1745407841",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2345040/covers/list@2x.jpg?1745407841"
+            }
+          }
+        },
+        {
+          "ID": 4070007,
+          "Mods": "",
+          "BeatmapInfo": {
+            "OnlineID": 4070007,
+            "DifficultyName": "Incantation",
+            "BPM": 185.0,
+            "Length": 222000.0,
+            "StarRating": 7.07,
+            "EndTimeObjectCount": 397,
+            "TotalObjectCount": 1738,
+            "Metadata": {
+              "Title": "Evil But Innocent",
+              "title_unicode": "Evil But Innocent",
+              "Artist": "UNDEAD CORPORATION",
+              "artist_unicode": "UNDEAD CORPORATION",
+              "Author": {
+                "OnlineID": 12927633,
+                "Username": "kiwies",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方神霊廟　～ Ten Desires",
+              "tags": "supuor roupus urition hfig urdu awfulness gabdu09 fa featured artist video game touhou project stage 4 seiga kaku theme boukun melodic death metal japanese",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.2,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.4,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/cover@2x.jpg?1748222516",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/card@2x.jpg?1748222516",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1564675/covers/list@2x.jpg?1748222516"
+            }
+          }
+        },
+        {
+          "ID": 2992795,
+          "Mods": "",
+          "BeatmapInfo": {
+            "OnlineID": 2992795,
+            "DifficultyName": "Jounzan's PTSD Extra",
+            "BPM": 274.0,
+            "Length": 194000.0,
+            "StarRating": 6.64,
+            "EndTimeObjectCount": 481,
+            "TotalObjectCount": 995,
+            "Metadata": {
+              "Title": "Lost Umbrella",
+              "title_unicode": "ロストアンブレラ",
+              "Artist": "inabakumori",
+              "artist_unicode": "稲葉曇",
+              "Author": {
+                "OnlineID": 7777875,
+                "Username": "Ryuusei Aika",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "houshou hari [hatsune miku] [hatsune_miku] hatsune miku kanor bongo kusano evilelvis evil elvis jounzan natteke desu natteke_desu smokelind 稻叶昙 歌愛ユキ ボーカロイド kaai yuki vocaloid vocalsynth female vocal japanese rock pop j-rock jrock j-pop jpop",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/cover@2x.jpg?1622213323",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/card@2x.jpg?1622213323",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1455997/covers/list@2x.jpg?1622213323"
+            }
+          }
+        },
+        {
+          "ID": 2722429,
+          "Mods": "",
+          "BeatmapInfo": {
+            "OnlineID": 2722429,
+            "DifficultyName": "Collab Extra",
+            "BPM": 194.0,
+            "Length": 136000.0,
+            "StarRating": 6.63,
+            "EndTimeObjectCount": 388,
+            "TotalObjectCount": 712,
+            "Metadata": {
+              "Title": "Fluctuation",
+              "title_unicode": "Fluctuation",
+              "Artist": "Zekk",
+              "artist_unicode": "Zekk",
+              "Author": {
+                "OnlineID": 1943309,
+                "Username": "Acylica",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "owc grandfinal gf nm4 electronic instrumental mappers' guild featured artist fa drumstep vikala toybot kalibe acyl heilia realazy hypercyte hypercute mordred osu world cup mpg",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.4,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/cover@2x.jpg?1650704383",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/card@2x.jpg?1650704383",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1313559/covers/list@2x.jpg?1650704383"
+            }
+          }
+        },
+        {
+          "ID": 3666952,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3666952,
+            "DifficultyName": "Bloom",
+            "BPM": 252.0,
+            "Length": 227000.0,
+            "StarRating": 6.95,
+            "EndTimeObjectCount": 576,
+            "TotalObjectCount": 1079,
+            "Metadata": {
+              "Title": "Highlight Highlight",
+              "title_unicode": "ハイライト・ハイライト",
+              "Artist": "the peggies",
+              "artist_unicode": "the peggies",
+              "Author": {
+                "OnlineID": 19603724,
+                "Username": "Vanya2",
+                "CountryString": "Unknown"
+              },
+              "Source": "くノ一ツバキの胸の内",
+              "tags": "dahkjdas alevi crysisters japanese anime op opening rock jrock j-rock pop jpop j-pop in the heart of kunoichi tsubaki no mune uchi",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/cover@2x.jpg?1664642268",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/card@2x.jpg?1664642268",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1789615/covers/list@2x.jpg?1664642268"
+            }
+          }
+        },
+        {
+          "ID": 2819029,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2819029,
+            "DifficultyName": "hit da quon",
+            "BPM": 189.0,
+            "Length": 178000.0,
+            "StarRating": 6.07,
+            "EndTimeObjectCount": 196,
+            "TotalObjectCount": 917,
+            "Metadata": {
+              "Title": "Quon-Extend-",
+              "title_unicode": "Quon-Extend-",
+              "Artist": "Feryquitous",
+              "artist_unicode": "Feryquitous",
+              "Author": {
+                "OnlineID": 689997,
+                "Username": "captin1",
+                "CountryString": "Unknown"
+              },
+              "Source": "Lanota",
+              "tags": "arcaea artcore lowiro electronic instrumental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/cover@2x.jpg?1616565640",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/card@2x.jpg?1616565640",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1362537/covers/list@2x.jpg?1616565640"
+            }
+          }
+        },
+        {
+          "ID": 1636127,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1636127,
+            "DifficultyName": "Black Another",
+            "BPM": 222.0,
+            "Length": 139000.0,
+            "StarRating": 6.63,
+            "EndTimeObjectCount": 253,
+            "TotalObjectCount": 876,
+            "Metadata": {
+              "Title": "Reso*nyan*ce Fever",
+              "title_unicode": "Reso*nyan*ce Fever",
+              "Artist": "katagiri",
+              "artist_unicode": "かたぎり",
+              "Author": {
+                "OnlineID": 643394,
+                "Username": "Snow Note",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "7odoa pw384 rlc kundi kuki1537 bms of fighters ultimate bofu2016 legendary again dancecore resonyance resonance xlni 384059043 kuki edm hardcore mashcore hard core dance music 2016 just do it shia labeouf Коробе́йники tetris kbc keyboard crasher キーボードクラッシャー スーパーマリオ super mario rpg legend of the seven stars 森のキノコにご用心 forest maze 下村陽子 yoko shimomura サンドキャニオン 砂漠ステージ sand canyon map jun 石川淳 ishikawa 星のカービィ3 kirby's dream land 3 任天堂 nintento 侵略!イカ娘 shinryaku! ika musume invasion! squid girl syamu gimme nightcore abba electronic instrumental japanese なまる ピ",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/779061/covers/cover@2x.jpg?1623439013",
+              "card@2x": "https://assets.ppy.sh/beatmaps/779061/covers/card@2x.jpg?1623439013",
+              "list@2x": "https://assets.ppy.sh/beatmaps/779061/covers/list@2x.jpg?1623439013"
+            }
+          }
+        },
+        {
+          "ID": 2735614,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 2735614,
+            "DifficultyName": "Expert",
+            "BPM": 140.0,
+            "Length": 157000.0,
+            "StarRating": 5.83,
+            "EndTimeObjectCount": 173,
+            "TotalObjectCount": 931,
+            "Metadata": {
+              "Title": "Koigokoro",
+              "title_unicode": "恋ゴコロ",
+              "Artist": "Primastella",
+              "artist_unicode": "ぷりますてら",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "ルーセントハート",
+              "tags": "lucent heart video game electronic japanese chompy dance pop trance imai sena sakagami nao tsukishima komugi saiya noir korosuke",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/cover@2x.jpg?1622187702",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/card@2x.jpg?1622187702",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1158376/covers/list@2x.jpg?1622187702"
+            }
+          }
+        },
+        {
+          "ID": 3602441,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3602441,
+            "DifficultyName": "Mayu's Insane",
+            "BPM": 181.0,
+            "Length": 225000.0,
+            "StarRating": 5.01,
+            "EndTimeObjectCount": 403,
+            "TotalObjectCount": 863,
+            "Metadata": {
+              "Title": "DearMyFriend",
+              "title_unicode": "DearMyFriend",
+              "Artist": "Hana",
+              "artist_unicode": "はな",
+              "Author": {
+                "OnlineID": 10627594,
+                "Username": "subahibi",
+                "CountryString": "Unknown"
+              },
+              "Source": "サクラノ詩－櫻の森の上を舞う－",
+              "tags": "sakura no uta sakura no mori no ue no mau japanese rock ed ending sca-ji makura eroge visual novel hana usami matsumoto fuminori metrowing shoegaze fedora- shizuku- shikibe mayu misho15_701_4_0 hakku tuffiii",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.8,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/cover@2x.jpg?1698793226",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/card@2x.jpg?1698793226",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1758508/covers/list@2x.jpg?1698793226"
+            }
+          }
+        },
+        {
+          "ID": 3798824,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3798824,
+            "DifficultyName": "Heart",
+            "BPM": 154.0,
+            "Length": 197000.0,
+            "StarRating": 4.86,
+            "EndTimeObjectCount": 145,
+            "TotalObjectCount": 1122,
+            "Metadata": {
+              "Title": "LOVE BOMB",
+              "title_unicode": "LOVE BOMB",
+              "Artist": "fromis_9",
+              "artist_unicode": "프로미스나인",
+              "Author": {
+                "OnlineID": 2490770,
+                "Username": "Cellina",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "down skymin atipir mayu wakisaka sean alexander david amber from.9 from idol school off the record 새롬 saerom 하영 hayoung 규리 gyuri 지원 jiwon 지선 jisun 서연 seoyeon 채영 chaeyoung 나경 nagyung 지헌 jiheon 5dkc2 dt2 korean kpop k-pop pop",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/cover@2x.jpg?1664629374",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/card@2x.jpg?1664629374",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1849271/covers/list@2x.jpg?1664629374"
+            }
+          }
+        },
+        {
+          "ID": 2364523,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2364523,
+            "DifficultyName": "IObot's Insane",
+            "BPM": 140.0,
+            "Length": 237000.0,
+            "StarRating": 4.54,
+            "EndTimeObjectCount": 473,
+            "TotalObjectCount": 901,
+            "Metadata": {
+              "Title": "Hibikase",
+              "title_unicode": "ヒビカセ",
+              "Artist": "Reol",
+              "artist_unicode": "れをる",
+              "Author": {
+                "OnlineID": 2848604,
+                "Username": "vikala",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "firika ioexception deadcode toybot giga okiku no title+ vocaloid hatsune miku 初音ミク japanese pop",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/cover@2x.jpg?1650688371",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/card@2x.jpg?1650688371",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1067141/covers/list@2x.jpg?1650688371"
+            }
+          }
+        }
+      ],
+      "StartDate": "2025-06-09T17:58:52.0067583+01:00",
+      "Matches": []
+    }
+  ],
+  "Teams": [
+    {
+      "FullName": "me",
+      "FlagName": "",
+      "Acronym": "",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    },
+    {
+      "FullName": "you",
+      "FlagName": "YO",
+      "Acronym": "YOU",
+      "SeedingResults": [],
+      "Seed": "",
+      "LastYearPlacing": 0,
+      "Players": []
+    }
+  ],
+  "Progressions": [],
+  "ChromaKeyWidth": 1366,
+  "PlayersPerTeam": 4,
+  "AutoProgressScreens": true,
+  "SplitMapPoolByMods": true,
+  "DisplayTeamSeeds": false
+}
