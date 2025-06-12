@@ -12,4 +12,4 @@ For information on how to setup and use the osu! lazer tournament client, see [D
 ## Thanks
 
 - All videos created by [kaetwo](https://linktr.ee/o.kae)
-- Mod icons originally by -makoto yuki, modified by myself. 
+- Mod icons originally by [-makoto yuki](https://osu.ppy.sh/community/forums/topics/265638?n=1), modified by myself. 
