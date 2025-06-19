@@ -82,19 +82,79 @@
     {
       "ID": 14,
       "Team1Acronym": "Teej",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "LilR",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4219083
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3859442
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 257793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3459525
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4669227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2506205
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1513230
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1756216
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 45433
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4375380
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4509876
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3946378
+        }
+      ],
+      "Current": false,
       "Date": "2025-06-19T15:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 900
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -268,7 +328,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2025-06-19T18:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -370,6 +430,7 @@
       "ID": 13,
       "Team1Acronym": "skia",
       "Team1Score": null,
+      "Team2Acronym": "Teej",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -888,6 +949,7 @@
     },
     {
       "ID": 61,
+      "Team1Acronym": "LilR",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -900,6 +962,7 @@
         "X": 400,
         "Y": 3730
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
