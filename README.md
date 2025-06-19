@@ -1,4 +1,4 @@
-# ukcc-lazer
+# ukcc13
 
 This repository contains all the resources for United Kingdom Community Cup 13 osu!(lazer) tournament client. 
 
