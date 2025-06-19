@@ -8,7 +8,7 @@ For information on how to setup and use the osu! lazer tournament client, see [D
 
 1. Navigate to the osu!(lazer) tournament folder, usually `C:\Users\<username>\AppData\Roaming\osu\tournaments`, and clone this repository at this location. Alternatively, download this repository as a .zip and extract to a folder in the same location mentioned.
  
-### Lazer Set-up
+### Lazer Setup
 
 1. In the osu!(lazer) tournament client on the Setup page, select `ukcc13` from the Current Tournament drop down.
 
