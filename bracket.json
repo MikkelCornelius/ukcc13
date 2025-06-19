@@ -322,10 +322,10 @@
     {
       "ID": 45,
       "Team1Acronym": "marz",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "timm",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": true,
@@ -612,6 +612,7 @@
       "ID": 44,
       "Team1Acronym": "syno",
       "Team1Score": null,
+      "Team2Acronym": "timm",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1111,6 +1112,7 @@
     },
     {
       "ID": 91,
+      "Team1Acronym": "marz",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1123,6 +1125,7 @@
         "X": 400,
         "Y": 4730
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
