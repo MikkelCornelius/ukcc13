@@ -17,7 +17,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T15:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 100
@@ -34,8 +34,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Current": false,
+      "Date": "2025-06-21T16:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 300
@@ -53,7 +53,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-20T19:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 500
@@ -71,7 +71,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-20T15:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 700
@@ -88,8 +88,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Current": true,
+      "Date": "2025-06-19T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 900
@@ -107,7 +107,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T13:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1100
@@ -125,7 +125,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1300
@@ -143,7 +143,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1500
@@ -161,7 +161,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-20T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1700
@@ -179,7 +179,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T12:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1900
@@ -197,7 +197,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T16:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2100
@@ -215,7 +215,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T15:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2300
@@ -233,7 +233,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T13:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2500
@@ -251,7 +251,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T20:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2700
@@ -269,7 +269,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-19T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2900
@@ -287,7 +287,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-21T18:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 3100
@@ -304,7 +304,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T16:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -322,7 +322,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -339,7 +339,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -357,7 +357,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T18:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -375,7 +375,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T19:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -393,7 +393,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T13:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -412,7 +412,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -430,7 +430,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T18:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -448,7 +448,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T12:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -466,7 +466,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T11:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -484,7 +484,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T18:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -502,7 +502,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T16:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -520,7 +520,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T15:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -538,7 +538,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -556,7 +556,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T19:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -574,7 +574,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T01:00:01+01:00",
+      "Date": "2025-06-22T20:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 200,
@@ -1064,7 +1064,6 @@
     },
     {
       "ID": 94,
-      "Team1Acronym": "King",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1077,7 +1076,6 @@
         "X": 400,
         "Y": 4830
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2215,7 +2213,7 @@
           }
         }
       ],
-      "StartDate": "2025-06-21T01:00:01+01:00",
+      "StartDate": "2025-06-19T00:00:01+00:00",
       "Matches": [
         2,
         5,
@@ -2256,7 +2254,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2023-10-20T06:46:53.6269887+01:00",
+      "StartDate": "2025-06-28T00:00:01+00:00",
       "Matches": [
         3,
         9,
