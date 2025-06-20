@@ -64,13 +64,13 @@
     {
       "ID": 11,
       "Team1Acronym": "vonn",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "Synd",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2025-06-20T16:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -328,7 +328,7 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2025-06-19T18:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -412,6 +412,7 @@
       "ID": 10,
       "Team1Acronym": "lyst",
       "Team1Score": null,
+      "Team2Acronym": "Synd",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -934,6 +935,7 @@
     },
     {
       "ID": 59,
+      "Team1Acronym": "vonn",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -946,6 +948,7 @@
         "X": 400,
         "Y": 3630
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
